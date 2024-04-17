@@ -10,4 +10,4 @@ At the moment the code can only be run on windows due to the possibility of inst
 
 ##Workflow
 
-![alt text](https://github.com/messagian/MCC_LCA/tree/main/images/LCC_MCA.png?raw=true)
+![alt text](https://github.com/messagian/MCC_LCA/tree/main/images/MCC_LCA.png?raw=true)
