@@ -9,4 +9,5 @@ Repository containing the scripts to interface with Aspen programmatically in th
 At the moment the code can only be run on windows due to the possibility of installing Aspen only on windows systems.
 
 ##Workflow
-![alt text](https://github.com/messagian/MCC_LCA/blob/main/images/LCC_MCA.png?raw=true)
+
+![alt text](https://github.com/messagian/MCC_LCA/tree/main/images/LCC_MCA.png?raw=true)
